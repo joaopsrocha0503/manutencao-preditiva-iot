@@ -1,0 +1,22 @@
+﻿==================================================
+ORDEM DE SERVIÇO URGENTE (WORK ORDER)
+==================================================
+TICKET ID: TICKET-AUT-MOT-202605201812
+EMISSÃO:   2026-05-20 18:12:25
+NÍVEL:     CRÍTICO
+--------------------------------------------------
+EQUIPAMENTO: 
+Motor de Indução A
+
+CAUSA DETETADA:
+Risco de Falha Térmica Iminente. 
+Tempo de Vida Útil Restante (RUL) estimado em apenas 4.35 horas.
+Limiar Crítico: 105.0°C.
+Projeção de Falha: 2026-05-20 22:36:08.
+
+AÇÃO RECOMENDADA:
+1. Proceder à paragem controlada da linha no final do lote atual.
+2. Efetuar substituição de rolamentos (possível fadiga mecânica causadora de atrito térmico).
+3. Verificação do sistema de ventilação do cárter.
+4. Registo de intervenção no CMMS após conclusão.
+==================================================

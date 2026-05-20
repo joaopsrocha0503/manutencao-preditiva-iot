@@ -1,0 +1,12 @@
+{
+    "Motor de Indução A": {
+        "ultima_leitura": "2026-05-20 18:15:00",
+        "limite_critico_temperatura": 105.0,
+        "timestamp_projetado_falha": "2026-05-20 22:36:08",
+        "rul_horas": 4.35,
+        "modelo": {
+            "coeficiente_declinio_min": 0.0952,
+            "intersecao_base": 66.35
+        }
+    }
+}

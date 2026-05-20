@@ -1,0 +1,932 @@
+{
+    "Motor de Indução A": [
+        {
+            "timestamp": "2026-05-20 13:20:00",
+            "temperatura": 58.33,
+            "vibracao": 1.99,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0163
+        },
+        {
+            "timestamp": "2026-05-20 13:45:00",
+            "temperatura": 63.59,
+            "vibracao": 1.5,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0066
+        },
+        {
+            "timestamp": "2026-05-20 14:20:00",
+            "temperatura": 58.73,
+            "vibracao": 1.99,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0039
+        },
+        {
+            "timestamp": "2026-05-20 15:50:00",
+            "temperatura": 66.03,
+            "vibracao": 3.0,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0827
+        },
+        {
+            "timestamp": "2026-05-20 15:55:00",
+            "temperatura": 66.44,
+            "vibracao": 2.35,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0313
+        },
+        {
+            "timestamp": "2026-05-20 16:00:00",
+            "temperatura": 67.58,
+            "vibracao": 2.64,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0525
+        },
+        {
+            "timestamp": "2026-05-20 16:05:00",
+            "temperatura": 68.36,
+            "vibracao": 2.43,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0011
+        },
+        {
+            "timestamp": "2026-05-20 16:10:00",
+            "temperatura": 68.77,
+            "vibracao": 2.31,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0162
+        },
+        {
+            "timestamp": "2026-05-20 16:15:00",
+            "temperatura": 69.12,
+            "vibracao": 2.05,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0402
+        },
+        {
+            "timestamp": "2026-05-20 16:20:00",
+            "temperatura": 68.16,
+            "vibracao": 2.38,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0032
+        },
+        {
+            "timestamp": "2026-05-20 16:25:00",
+            "temperatura": 69.52,
+            "vibracao": 3.38,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.086
+        },
+        {
+            "timestamp": "2026-05-20 16:30:00",
+            "temperatura": 70.13,
+            "vibracao": 3.11,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0276
+        },
+        {
+            "timestamp": "2026-05-20 16:35:00",
+            "temperatura": 71.13,
+            "vibracao": 3.06,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0077
+        },
+        {
+            "timestamp": "2026-05-20 16:40:00",
+            "temperatura": 71.8,
+            "vibracao": 3.22,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0337
+        },
+        {
+            "timestamp": "2026-05-20 16:45:00",
+            "temperatura": 71.23,
+            "vibracao": 3.24,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0363
+        },
+        {
+            "timestamp": "2026-05-20 16:50:00",
+            "temperatura": 71.23,
+            "vibracao": 2.51,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0281
+        },
+        {
+            "timestamp": "2026-05-20 16:55:00",
+            "temperatura": 72.16,
+            "vibracao": 2.64,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0362
+        },
+        {
+            "timestamp": "2026-05-20 17:00:00",
+            "temperatura": 73.43,
+            "vibracao": 2.44,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0418
+        },
+        {
+            "timestamp": "2026-05-20 17:05:00",
+            "temperatura": 72.83,
+            "vibracao": 3.38,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.077
+        },
+        {
+            "timestamp": "2026-05-20 17:10:00",
+            "temperatura": 74.11,
+            "vibracao": 3.1,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0226
+        },
+        {
+            "timestamp": "2026-05-20 17:15:00",
+            "temperatura": 74.84,
+            "vibracao": 3.05,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0113
+        },
+        {
+            "timestamp": "2026-05-20 17:20:00",
+            "temperatura": 75.03,
+            "vibracao": 2.55,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0399
+        },
+        {
+            "timestamp": "2026-05-20 17:25:00",
+            "temperatura": 75.9,
+            "vibracao": 2.84,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0279
+        },
+        {
+            "timestamp": "2026-05-20 17:30:00",
+            "temperatura": 75.62,
+            "vibracao": 3.2,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0468
+        },
+        {
+            "timestamp": "2026-05-20 17:35:00",
+            "temperatura": 76.21,
+            "vibracao": 3.0,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0098
+        },
+        {
+            "timestamp": "2026-05-20 17:40:00",
+            "temperatura": 77.42,
+            "vibracao": 3.31,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0794
+        },
+        {
+            "timestamp": "2026-05-20 17:45:00",
+            "temperatura": 77.01,
+            "vibracao": 2.91,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0132
+        },
+        {
+            "timestamp": "2026-05-20 17:50:00",
+            "temperatura": 77.09,
+            "vibracao": 2.95,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.01
+        },
+        {
+            "timestamp": "2026-05-20 17:55:00",
+            "temperatura": 79.05,
+            "vibracao": 2.74,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0569
+        },
+        {
+            "timestamp": "2026-05-20 18:00:00",
+            "temperatura": 78.49,
+            "vibracao": 3.07,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0378
+        },
+        {
+            "timestamp": "2026-05-20 18:05:00",
+            "temperatura": 79.13,
+            "vibracao": 2.48,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.0671
+        },
+        {
+            "timestamp": "2026-05-20 18:10:00",
+            "temperatura": 79.77,
+            "vibracao": 3.41,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.1377
+        },
+        {
+            "timestamp": "2026-05-20 18:15:00",
+            "temperatura": 80.01,
+            "vibracao": 2.22,
+            "estado_operacional_simulado": "Alerta - Sobreaquecimento Incipiente",
+            "score_anomalia": -0.1383
+        },
+        {
+            "timestamp": "2026-05-20 18:20:00",
+            "temperatura": 34.43,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0186
+        },
+        {
+            "timestamp": "2026-05-20 18:30:00",
+            "temperatura": 34.82,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0282
+        },
+        {
+            "timestamp": "2026-05-20 19:05:00",
+            "temperatura": 34.73,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0273
+        },
+        {
+            "timestamp": "2026-05-20 19:25:00",
+            "temperatura": 34.08,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0001
+        },
+        {
+            "timestamp": "2026-05-20 19:45:00",
+            "temperatura": 25.96,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0581
+        },
+        {
+            "timestamp": "2026-05-20 20:00:00",
+            "temperatura": 26.55,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0194
+        },
+        {
+            "timestamp": "2026-05-20 20:20:00",
+            "temperatura": 25.53,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0588
+        },
+        {
+            "timestamp": "2026-05-20 20:35:00",
+            "temperatura": 25.2,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0853
+        },
+        {
+            "timestamp": "2026-05-20 20:40:00",
+            "temperatura": 25.64,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0581
+        },
+        {
+            "timestamp": "2026-05-20 21:45:00",
+            "temperatura": 34.92,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.0528
+        },
+        {
+            "timestamp": "2026-05-20 21:55:00",
+            "temperatura": 25.14,
+            "vibracao": 0.0,
+            "estado_operacional_simulado": "Parado - Intervenção de Manutenção",
+            "score_anomalia": -0.094
+        }
+    ],
+    "Motor de Indução B": [
+        {
+            "timestamp": "2026-05-20 00:20:00",
+            "temperatura": 48.84,
+            "vibracao": 0.4,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0799
+        },
+        {
+            "timestamp": "2026-05-20 01:50:00",
+            "temperatura": 48.26,
+            "vibracao": 0.42,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.028
+        },
+        {
+            "timestamp": "2026-05-20 02:30:00",
+            "temperatura": 48.19,
+            "vibracao": 0.76,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0371
+        },
+        {
+            "timestamp": "2026-05-20 02:35:00",
+            "temperatura": 55.47,
+            "vibracao": 0.43,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0329
+        },
+        {
+            "timestamp": "2026-05-20 03:00:00",
+            "temperatura": 55.73,
+            "vibracao": 0.42,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0558
+        },
+        {
+            "timestamp": "2026-05-20 03:20:00",
+            "temperatura": 48.03,
+            "vibracao": 0.62,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.056
+        },
+        {
+            "timestamp": "2026-05-20 03:30:00",
+            "temperatura": 55.85,
+            "vibracao": 0.81,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0415
+        },
+        {
+            "timestamp": "2026-05-20 03:50:00",
+            "temperatura": 48.76,
+            "vibracao": 0.42,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0069
+        },
+        {
+            "timestamp": "2026-05-20 04:10:00",
+            "temperatura": 53.71,
+            "vibracao": 0.42,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0042
+        },
+        {
+            "timestamp": "2026-05-20 04:30:00",
+            "temperatura": 48.07,
+            "vibracao": 0.57,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0408
+        },
+        {
+            "timestamp": "2026-05-20 04:55:00",
+            "temperatura": 48.29,
+            "vibracao": 0.74,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.007
+        },
+        {
+            "timestamp": "2026-05-20 07:40:00",
+            "temperatura": 48.26,
+            "vibracao": 0.42,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.028
+        },
+        {
+            "timestamp": "2026-05-20 08:45:00",
+            "temperatura": 55.95,
+            "vibracao": 0.95,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.1005
+        },
+        {
+            "timestamp": "2026-05-20 09:25:00",
+            "temperatura": 48.52,
+            "vibracao": 0.59,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0046
+        },
+        {
+            "timestamp": "2026-05-20 09:55:00",
+            "temperatura": 48.88,
+            "vibracao": 0.96,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0019
+        },
+        {
+            "timestamp": "2026-05-20 10:00:00",
+            "temperatura": 55.37,
+            "vibracao": 0.57,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0174
+        },
+        {
+            "timestamp": "2026-05-20 10:35:00",
+            "temperatura": 51.57,
+            "vibracao": 0.41,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0139
+        },
+        {
+            "timestamp": "2026-05-20 10:55:00",
+            "temperatura": 54.99,
+            "vibracao": 0.47,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0006
+        },
+        {
+            "timestamp": "2026-05-20 11:10:00",
+            "temperatura": 48.06,
+            "vibracao": 0.45,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0409
+        },
+        {
+            "timestamp": "2026-05-20 11:45:00",
+            "temperatura": 49.12,
+            "vibracao": 0.99,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.039
+        },
+        {
+            "timestamp": "2026-05-20 11:55:00",
+            "temperatura": 55.59,
+            "vibracao": 0.88,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0042
+        },
+        {
+            "timestamp": "2026-05-20 13:00:00",
+            "temperatura": 48.59,
+            "vibracao": 0.88,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0099
+        },
+        {
+            "timestamp": "2026-05-20 13:10:00",
+            "temperatura": 55.76,
+            "vibracao": 0.8,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0192
+        },
+        {
+            "timestamp": "2026-05-20 13:15:00",
+            "temperatura": 48.4,
+            "vibracao": 0.49,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0107
+        },
+        {
+            "timestamp": "2026-05-20 13:25:00",
+            "temperatura": 55.33,
+            "vibracao": 0.51,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0152
+        },
+        {
+            "timestamp": "2026-05-20 15:25:00",
+            "temperatura": 53.42,
+            "vibracao": 0.99,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0
+        },
+        {
+            "timestamp": "2026-05-20 16:10:00",
+            "temperatura": 48.31,
+            "vibracao": 0.77,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0218
+        },
+        {
+            "timestamp": "2026-05-20 16:20:00",
+            "temperatura": 51.03,
+            "vibracao": 0.41,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0076
+        },
+        {
+            "timestamp": "2026-05-20 16:40:00",
+            "temperatura": 48.16,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0661
+        },
+        {
+            "timestamp": "2026-05-20 16:55:00",
+            "temperatura": 55.9,
+            "vibracao": 0.4,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0982
+        },
+        {
+            "timestamp": "2026-05-20 17:55:00",
+            "temperatura": 55.75,
+            "vibracao": 0.78,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0206
+        },
+        {
+            "timestamp": "2026-05-20 18:30:00",
+            "temperatura": 55.96,
+            "vibracao": 0.49,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0813
+        },
+        {
+            "timestamp": "2026-05-20 19:00:00",
+            "temperatura": 56.0,
+            "vibracao": 0.41,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.1019
+        },
+        {
+            "timestamp": "2026-05-20 19:55:00",
+            "temperatura": 48.44,
+            "vibracao": 0.43,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0215
+        },
+        {
+            "timestamp": "2026-05-20 20:15:00",
+            "temperatura": 53.4,
+            "vibracao": 0.97,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0002
+        },
+        {
+            "timestamp": "2026-05-20 21:15:00",
+            "temperatura": 55.58,
+            "vibracao": 0.86,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.001
+        },
+        {
+            "timestamp": "2026-05-20 21:40:00",
+            "temperatura": 50.89,
+            "vibracao": 1.0,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0508
+        },
+        {
+            "timestamp": "2026-05-20 22:10:00",
+            "temperatura": 55.56,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0049
+        },
+        {
+            "timestamp": "2026-05-20 22:15:00",
+            "temperatura": 48.3,
+            "vibracao": 0.95,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0646
+        },
+        {
+            "timestamp": "2026-05-20 22:25:00",
+            "temperatura": 48.36,
+            "vibracao": 0.69,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0025
+        },
+        {
+            "timestamp": "2026-05-20 23:00:00",
+            "temperatura": 48.0,
+            "vibracao": 0.67,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0602
+        },
+        {
+            "timestamp": "2026-05-20 23:30:00",
+            "temperatura": 48.06,
+            "vibracao": 0.46,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.045
+        },
+        {
+            "timestamp": "2026-05-20 23:40:00",
+            "temperatura": 55.23,
+            "vibracao": 0.96,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0357
+        },
+        {
+            "timestamp": "2026-05-20 23:50:00",
+            "temperatura": 54.61,
+            "vibracao": 0.44,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0029
+        }
+    ],
+    "Torno CNC": [
+        {
+            "timestamp": "2026-05-20 00:15:00",
+            "temperatura": 38.38,
+            "vibracao": 0.85,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0218
+        },
+        {
+            "timestamp": "2026-05-20 00:20:00",
+            "temperatura": 40.24,
+            "vibracao": 5.81,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1852
+        },
+        {
+            "timestamp": "2026-05-20 02:25:00",
+            "temperatura": 42.8,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0003
+        },
+        {
+            "timestamp": "2026-05-20 03:00:00",
+            "temperatura": 38.22,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0024
+        },
+        {
+            "timestamp": "2026-05-20 05:10:00",
+            "temperatura": 42.7,
+            "vibracao": 0.82,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0248
+        },
+        {
+            "timestamp": "2026-05-20 06:00:00",
+            "temperatura": 38.15,
+            "vibracao": 1.26,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0081
+        },
+        {
+            "timestamp": "2026-05-20 07:55:00",
+            "temperatura": 42.12,
+            "vibracao": 0.81,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0221
+        },
+        {
+            "timestamp": "2026-05-20 08:00:00",
+            "temperatura": 43.12,
+            "vibracao": 4.92,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1378
+        },
+        {
+            "timestamp": "2026-05-20 08:20:00",
+            "temperatura": 42.99,
+            "vibracao": 1.03,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0083
+        },
+        {
+            "timestamp": "2026-05-20 08:35:00",
+            "temperatura": 43.32,
+            "vibracao": 5.46,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1561
+        },
+        {
+            "timestamp": "2026-05-20 08:45:00",
+            "temperatura": 38.21,
+            "vibracao": 0.88,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0181
+        },
+        {
+            "timestamp": "2026-05-20 09:10:00",
+            "temperatura": 43.66,
+            "vibracao": 4.93,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1412
+        },
+        {
+            "timestamp": "2026-05-20 09:45:00",
+            "temperatura": 38.1,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0333
+        },
+        {
+            "timestamp": "2026-05-20 09:50:00",
+            "temperatura": 38.53,
+            "vibracao": 1.73,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0097
+        },
+        {
+            "timestamp": "2026-05-20 10:20:00",
+            "temperatura": 38.04,
+            "vibracao": 1.3,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0359
+        },
+        {
+            "timestamp": "2026-05-20 11:20:00",
+            "temperatura": 41.01,
+            "vibracao": 5.83,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1362
+        },
+        {
+            "timestamp": "2026-05-20 12:25:00",
+            "temperatura": 38.24,
+            "vibracao": 1.7,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0205
+        },
+        {
+            "timestamp": "2026-05-20 13:05:00",
+            "temperatura": 43.05,
+            "vibracao": 5.76,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1603
+        },
+        {
+            "timestamp": "2026-05-20 13:15:00",
+            "temperatura": 39.95,
+            "vibracao": 1.8,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0078
+        },
+        {
+            "timestamp": "2026-05-20 14:15:00",
+            "temperatura": 41.31,
+            "vibracao": 0.8,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0149
+        },
+        {
+            "timestamp": "2026-05-20 14:25:00",
+            "temperatura": 42.92,
+            "vibracao": 0.89,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0109
+        },
+        {
+            "timestamp": "2026-05-20 14:40:00",
+            "temperatura": 43.83,
+            "vibracao": 5.53,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1956
+        },
+        {
+            "timestamp": "2026-05-20 15:10:00",
+            "temperatura": 40.56,
+            "vibracao": 5.54,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1517
+        },
+        {
+            "timestamp": "2026-05-20 15:15:00",
+            "temperatura": 38.8,
+            "vibracao": 0.84,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0001
+        },
+        {
+            "timestamp": "2026-05-20 15:20:00",
+            "temperatura": 42.43,
+            "vibracao": 0.84,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0136
+        },
+        {
+            "timestamp": "2026-05-20 15:25:00",
+            "temperatura": 41.52,
+            "vibracao": 4.69,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1571
+        },
+        {
+            "timestamp": "2026-05-20 15:40:00",
+            "temperatura": 38.5,
+            "vibracao": 1.76,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0302
+        },
+        {
+            "timestamp": "2026-05-20 16:05:00",
+            "temperatura": 40.32,
+            "vibracao": 4.88,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1754
+        },
+        {
+            "timestamp": "2026-05-20 16:10:00",
+            "temperatura": 38.13,
+            "vibracao": 1.56,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0314
+        },
+        {
+            "timestamp": "2026-05-20 16:15:00",
+            "temperatura": 42.66,
+            "vibracao": 0.82,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0149
+        },
+        {
+            "timestamp": "2026-05-20 16:55:00",
+            "temperatura": 40.43,
+            "vibracao": 0.81,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0114
+        },
+        {
+            "timestamp": "2026-05-20 17:25:00",
+            "temperatura": 41.01,
+            "vibracao": 5.62,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1229
+        },
+        {
+            "timestamp": "2026-05-20 18:00:00",
+            "temperatura": 38.07,
+            "vibracao": 0.8,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.111
+        },
+        {
+            "timestamp": "2026-05-20 18:35:00",
+            "temperatura": 43.82,
+            "vibracao": 4.57,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.2003
+        },
+        {
+            "timestamp": "2026-05-20 18:55:00",
+            "temperatura": 43.68,
+            "vibracao": 5.06,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1492
+        },
+        {
+            "timestamp": "2026-05-20 19:40:00",
+            "temperatura": 38.09,
+            "vibracao": 1.13,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.012
+        },
+        {
+            "timestamp": "2026-05-20 20:00:00",
+            "temperatura": 41.24,
+            "vibracao": 0.8,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0161
+        },
+        {
+            "timestamp": "2026-05-20 20:10:00",
+            "temperatura": 38.2,
+            "vibracao": 1.71,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0341
+        },
+        {
+            "timestamp": "2026-05-20 20:20:00",
+            "temperatura": 39.08,
+            "vibracao": 0.83,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0019
+        },
+        {
+            "timestamp": "2026-05-20 20:55:00",
+            "temperatura": 41.36,
+            "vibracao": 5.75,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1386
+        },
+        {
+            "timestamp": "2026-05-20 21:20:00",
+            "temperatura": 42.22,
+            "vibracao": 4.73,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1509
+        },
+        {
+            "timestamp": "2026-05-20 22:15:00",
+            "temperatura": 40.89,
+            "vibracao": 5.7,
+            "estado_operacional_simulado": "Alerta - Vibração Anómala",
+            "score_anomalia": -0.1195
+        },
+        {
+            "timestamp": "2026-05-20 23:30:00",
+            "temperatura": 38.06,
+            "vibracao": 1.0,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0289
+        },
+        {
+            "timestamp": "2026-05-20 23:40:00",
+            "temperatura": 43.0,
+            "vibracao": 1.01,
+            "estado_operacional_simulado": "Operacional",
+            "score_anomalia": -0.0097
+        }
+    ]
+}
