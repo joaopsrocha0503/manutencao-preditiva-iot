@@ -6,73 +6,87 @@
             "downtime_total_horas": 5.67,
             "uptime_total_horas": 18.25,
             "disponibilidade_percentagem": 76.31,
-            "numero_falhas_eventos": 9,
-            "mtbf_horas": 2.03,
+            "numero_falhas_eventos": 11,
+            "mtbf_horas": 1.66,
             "mttr_horas": 5.67,
             "mttr_minutos": 340.0
         },
         "detalhes_eventos_falha": [
             {
                 "evento_id": 1,
-                "inicio": "2026-05-20 13:20:00",
-                "fim": "2026-05-20 13:20:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 13:30:00",
+                "fim": "2026-05-20 13:40:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 2,
-                "inicio": "2026-05-20 13:45:00",
-                "fim": "2026-05-20 13:45:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Operacional"
-            },
-            {
-                "evento_id": 3,
-                "inicio": "2026-05-20 14:20:00",
-                "fim": "2026-05-20 14:20:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Operacional"
-            },
-            {
-                "evento_id": 4,
                 "inicio": "2026-05-20 15:50:00",
-                "fim": "2026-05-20 18:30:00",
-                "duracao_minutos": 160,
+                "fim": "2026-05-20 18:15:00",
+                "duracao_minutos": 130,
                 "estado_inicial": "Alerta - Sobreaquecimento Incipiente"
             },
             {
-                "evento_id": 5,
-                "inicio": "2026-05-20 19:05:00",
-                "fim": "2026-05-20 19:05:00",
+                "evento_id": 3,
+                "inicio": "2026-05-20 18:40:00",
+                "fim": "2026-05-20 18:40:00",
                 "duracao_minutos": 5,
+                "estado_inicial": "Parado - Intervenção de Manutenção"
+            },
+            {
+                "evento_id": 4,
+                "inicio": "2026-05-20 19:00:00",
+                "fim": "2026-05-20 19:00:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Parado - Intervenção de Manutenção"
+            },
+            {
+                "evento_id": 5,
+                "inicio": "2026-05-20 19:20:00",
+                "fim": "2026-05-20 20:00:00",
+                "duracao_minutos": 20,
                 "estado_inicial": "Parado - Intervenção de Manutenção"
             },
             {
                 "evento_id": 6,
-                "inicio": "2026-05-20 19:25:00",
-                "fim": "2026-05-20 19:25:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 20:35:00",
+                "fim": "2026-05-20 20:40:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Parado - Intervenção de Manutenção"
             },
             {
                 "evento_id": 7,
-                "inicio": "2026-05-20 19:45:00",
-                "fim": "2026-05-20 20:00:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 21:10:00",
+                "fim": "2026-05-20 21:10:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Parado - Intervenção de Manutenção"
             },
             {
                 "evento_id": 8,
-                "inicio": "2026-05-20 20:20:00",
-                "fim": "2026-05-20 20:40:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 21:35:00",
+                "fim": "2026-05-20 21:35:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Parado - Intervenção de Manutenção"
             },
             {
                 "evento_id": 9,
-                "inicio": "2026-05-20 21:45:00",
+                "inicio": "2026-05-20 21:55:00",
                 "fim": "2026-05-20 21:55:00",
-                "duracao_minutos": 10,
+                "duracao_minutos": 5,
+                "estado_inicial": "Parado - Intervenção de Manutenção"
+            },
+            {
+                "evento_id": 10,
+                "inicio": "2026-05-20 22:25:00",
+                "fim": "2026-05-20 23:00:00",
+                "duracao_minutos": 20,
+                "estado_inicial": "Parado - Intervenção de Manutenção"
+            },
+            {
+                "evento_id": 11,
+                "inicio": "2026-05-20 23:55:00",
+                "fim": "2026-05-20 23:55:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Parado - Intervenção de Manutenção"
             }
         ]
@@ -84,220 +98,241 @@
             "downtime_total_horas": 0.0,
             "uptime_total_horas": 23.92,
             "disponibilidade_percentagem": 100.0,
-            "numero_falhas_eventos": 30,
-            "mtbf_horas": 0.8,
+            "numero_falhas_eventos": 33,
+            "mtbf_horas": 0.72,
             "mttr_horas": 0.0,
             "mttr_minutos": 0.0
         },
         "detalhes_eventos_falha": [
             {
                 "evento_id": 1,
-                "inicio": "2026-05-20 00:20:00",
-                "fim": "2026-05-20 00:20:00",
+                "inicio": "2026-05-20 01:15:00",
+                "fim": "2026-05-20 01:15:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 2,
-                "inicio": "2026-05-20 01:50:00",
-                "fim": "2026-05-20 01:50:00",
+                "inicio": "2026-05-20 01:40:00",
+                "fim": "2026-05-20 01:40:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 3,
-                "inicio": "2026-05-20 02:30:00",
-                "fim": "2026-05-20 02:35:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 02:10:00",
+                "fim": "2026-05-20 02:10:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 4,
-                "inicio": "2026-05-20 03:00:00",
-                "fim": "2026-05-20 03:00:00",
+                "inicio": "2026-05-20 02:30:00",
+                "fim": "2026-05-20 02:30:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 5,
-                "inicio": "2026-05-20 03:20:00",
-                "fim": "2026-05-20 03:30:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 03:10:00",
+                "fim": "2026-05-20 03:10:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 6,
-                "inicio": "2026-05-20 03:50:00",
-                "fim": "2026-05-20 03:50:00",
+                "inicio": "2026-05-20 03:35:00",
+                "fim": "2026-05-20 03:35:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 7,
-                "inicio": "2026-05-20 04:10:00",
-                "fim": "2026-05-20 04:10:00",
+                "inicio": "2026-05-20 04:15:00",
+                "fim": "2026-05-20 04:15:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 8,
-                "inicio": "2026-05-20 04:30:00",
-                "fim": "2026-05-20 04:30:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 04:55:00",
+                "fim": "2026-05-20 05:20:00",
+                "duracao_minutos": 15,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 9,
-                "inicio": "2026-05-20 04:55:00",
-                "fim": "2026-05-20 04:55:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 05:45:00",
+                "fim": "2026-05-20 05:55:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 10,
-                "inicio": "2026-05-20 07:40:00",
-                "fim": "2026-05-20 07:40:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 06:15:00",
+                "fim": "2026-05-20 06:30:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 11,
-                "inicio": "2026-05-20 08:45:00",
-                "fim": "2026-05-20 08:45:00",
+                "inicio": "2026-05-20 06:50:00",
+                "fim": "2026-05-20 06:50:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 12,
-                "inicio": "2026-05-20 09:25:00",
-                "fim": "2026-05-20 09:25:00",
+                "inicio": "2026-05-20 07:55:00",
+                "fim": "2026-05-20 07:55:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 13,
-                "inicio": "2026-05-20 09:55:00",
-                "fim": "2026-05-20 10:00:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 08:15:00",
+                "fim": "2026-05-20 08:15:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 14,
-                "inicio": "2026-05-20 10:35:00",
-                "fim": "2026-05-20 10:35:00",
+                "inicio": "2026-05-20 09:00:00",
+                "fim": "2026-05-20 09:00:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 15,
-                "inicio": "2026-05-20 10:55:00",
-                "fim": "2026-05-20 11:10:00",
+                "inicio": "2026-05-20 09:25:00",
+                "fim": "2026-05-20 09:30:00",
                 "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 16,
-                "inicio": "2026-05-20 11:45:00",
+                "inicio": "2026-05-20 10:10:00",
+                "fim": "2026-05-20 10:30:00",
+                "duracao_minutos": 15,
+                "estado_inicial": "Operacional"
+            },
+            {
+                "evento_id": 17,
+                "inicio": "2026-05-20 11:40:00",
                 "fim": "2026-05-20 11:55:00",
                 "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
-                "evento_id": 17,
-                "inicio": "2026-05-20 13:00:00",
-                "fim": "2026-05-20 13:25:00",
-                "duracao_minutos": 20,
-                "estado_inicial": "Operacional"
-            },
-            {
                 "evento_id": 18,
-                "inicio": "2026-05-20 15:25:00",
-                "fim": "2026-05-20 15:25:00",
+                "inicio": "2026-05-20 12:40:00",
+                "fim": "2026-05-20 12:40:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 19,
-                "inicio": "2026-05-20 16:10:00",
-                "fim": "2026-05-20 16:20:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 13:30:00",
+                "fim": "2026-05-20 13:30:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 20,
-                "inicio": "2026-05-20 16:40:00",
-                "fim": "2026-05-20 16:55:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 15:10:00",
+                "fim": "2026-05-20 15:10:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 21,
-                "inicio": "2026-05-20 17:55:00",
-                "fim": "2026-05-20 17:55:00",
+                "inicio": "2026-05-20 16:35:00",
+                "fim": "2026-05-20 16:35:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 22,
-                "inicio": "2026-05-20 18:30:00",
-                "fim": "2026-05-20 18:30:00",
+                "inicio": "2026-05-20 17:15:00",
+                "fim": "2026-05-20 17:15:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 23,
-                "inicio": "2026-05-20 19:00:00",
-                "fim": "2026-05-20 19:00:00",
+                "inicio": "2026-05-20 18:20:00",
+                "fim": "2026-05-20 18:20:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 24,
-                "inicio": "2026-05-20 19:55:00",
-                "fim": "2026-05-20 19:55:00",
+                "inicio": "2026-05-20 18:45:00",
+                "fim": "2026-05-20 18:45:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 25,
-                "inicio": "2026-05-20 20:15:00",
-                "fim": "2026-05-20 20:15:00",
+                "inicio": "2026-05-20 19:30:00",
+                "fim": "2026-05-20 19:30:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 26,
-                "inicio": "2026-05-20 21:15:00",
-                "fim": "2026-05-20 21:15:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 19:50:00",
+                "fim": "2026-05-20 20:00:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 27,
-                "inicio": "2026-05-20 21:40:00",
-                "fim": "2026-05-20 21:40:00",
+                "inicio": "2026-05-20 20:20:00",
+                "fim": "2026-05-20 20:20:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 28,
-                "inicio": "2026-05-20 22:10:00",
-                "fim": "2026-05-20 22:25:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 21:00:00",
+                "fim": "2026-05-20 21:00:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 29,
-                "inicio": "2026-05-20 23:00:00",
-                "fim": "2026-05-20 23:00:00",
+                "inicio": "2026-05-20 21:20:00",
+                "fim": "2026-05-20 21:20:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 30,
-                "inicio": "2026-05-20 23:30:00",
-                "fim": "2026-05-20 23:50:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 22:05:00",
+                "fim": "2026-05-20 22:05:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Operacional"
+            },
+            {
+                "evento_id": 31,
+                "inicio": "2026-05-20 22:30:00",
+                "fim": "2026-05-20 22:30:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Operacional"
+            },
+            {
+                "evento_id": 32,
+                "inicio": "2026-05-20 23:15:00",
+                "fim": "2026-05-20 23:25:00",
+                "duracao_minutos": 10,
+                "estado_inicial": "Operacional"
+            },
+            {
+                "evento_id": 33,
+                "inicio": "2026-05-20 23:45:00",
+                "fim": "2026-05-20 23:55:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             }
         ]
@@ -309,151 +344,151 @@
             "downtime_total_horas": 0.0,
             "uptime_total_horas": 23.92,
             "disponibilidade_percentagem": 100.0,
-            "numero_falhas_eventos": 27,
-            "mtbf_horas": 0.89,
+            "numero_falhas_eventos": 26,
+            "mtbf_horas": 0.92,
             "mttr_horas": 0.0,
             "mttr_minutos": 0.0
         },
         "detalhes_eventos_falha": [
             {
                 "evento_id": 1,
-                "inicio": "2026-05-20 00:15:00",
-                "fim": "2026-05-20 00:20:00",
-                "duracao_minutos": 10,
-                "estado_inicial": "Operacional"
+                "inicio": "2026-05-20 00:10:00",
+                "fim": "2026-05-20 00:10:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 2,
-                "inicio": "2026-05-20 02:25:00",
-                "fim": "2026-05-20 02:25:00",
+                "inicio": "2026-05-20 00:40:00",
+                "fim": "2026-05-20 00:40:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Alerta - Vibração Anómala"
+            },
+            {
+                "evento_id": 3,
+                "inicio": "2026-05-20 01:25:00",
+                "fim": "2026-05-20 01:25:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
-                "evento_id": 3,
+                "evento_id": 4,
+                "inicio": "2026-05-20 02:00:00",
+                "fim": "2026-05-20 02:00:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Alerta - Vibração Anómala"
+            },
+            {
+                "evento_id": 5,
                 "inicio": "2026-05-20 03:00:00",
                 "fim": "2026-05-20 03:00:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
-                "evento_id": 4,
-                "inicio": "2026-05-20 05:10:00",
-                "fim": "2026-05-20 05:10:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Operacional"
-            },
-            {
-                "evento_id": 5,
-                "inicio": "2026-05-20 06:00:00",
-                "fim": "2026-05-20 06:00:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Operacional"
-            },
-            {
                 "evento_id": 6,
-                "inicio": "2026-05-20 07:55:00",
-                "fim": "2026-05-20 08:00:00",
+                "inicio": "2026-05-20 03:30:00",
+                "fim": "2026-05-20 03:35:00",
                 "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 7,
-                "inicio": "2026-05-20 08:20:00",
-                "fim": "2026-05-20 08:45:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 03:55:00",
+                "fim": "2026-05-20 03:55:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 8,
-                "inicio": "2026-05-20 09:10:00",
-                "fim": "2026-05-20 09:10:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
-            },
-            {
-                "evento_id": 9,
-                "inicio": "2026-05-20 09:45:00",
-                "fim": "2026-05-20 09:50:00",
+                "inicio": "2026-05-20 04:30:00",
+                "fim": "2026-05-20 04:35:00",
                 "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
+                "evento_id": 9,
+                "inicio": "2026-05-20 05:35:00",
+                "fim": "2026-05-20 06:10:00",
+                "duracao_minutos": 25,
+                "estado_inicial": "Operacional"
+            },
+            {
                 "evento_id": 10,
-                "inicio": "2026-05-20 10:20:00",
-                "fim": "2026-05-20 10:20:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 07:00:00",
+                "fim": "2026-05-20 07:10:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 11,
-                "inicio": "2026-05-20 11:20:00",
-                "fim": "2026-05-20 11:20:00",
+                "inicio": "2026-05-20 07:30:00",
+                "fim": "2026-05-20 07:30:00",
                 "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
+                "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 12,
-                "inicio": "2026-05-20 12:25:00",
-                "fim": "2026-05-20 12:25:00",
+                "inicio": "2026-05-20 08:25:00",
+                "fim": "2026-05-20 08:25:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 13,
-                "inicio": "2026-05-20 13:05:00",
-                "fim": "2026-05-20 13:15:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 09:25:00",
+                "fim": "2026-05-20 09:25:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 14,
-                "inicio": "2026-05-20 14:15:00",
-                "fim": "2026-05-20 14:40:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 10:20:00",
+                "fim": "2026-05-20 10:35:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 15,
-                "inicio": "2026-05-20 15:10:00",
-                "fim": "2026-05-20 15:40:00",
-                "duracao_minutos": 25,
+                "inicio": "2026-05-20 13:05:00",
+                "fim": "2026-05-20 13:10:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 16,
-                "inicio": "2026-05-20 16:05:00",
-                "fim": "2026-05-20 16:15:00",
-                "duracao_minutos": 15,
+                "inicio": "2026-05-20 14:40:00",
+                "fim": "2026-05-20 14:40:00",
+                "duracao_minutos": 5,
                 "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 17,
-                "inicio": "2026-05-20 16:55:00",
-                "fim": "2026-05-20 16:55:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 15:00:00",
+                "fim": "2026-05-20 15:10:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 18,
-                "inicio": "2026-05-20 17:25:00",
-                "fim": "2026-05-20 17:25:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
-            },
-            {
-                "evento_id": 19,
-                "inicio": "2026-05-20 18:00:00",
-                "fim": "2026-05-20 18:00:00",
-                "duracao_minutos": 5,
+                "inicio": "2026-05-20 15:30:00",
+                "fim": "2026-05-20 15:40:00",
+                "duracao_minutos": 10,
                 "estado_inicial": "Operacional"
             },
             {
-                "evento_id": 20,
-                "inicio": "2026-05-20 18:35:00",
-                "fim": "2026-05-20 18:35:00",
+                "evento_id": 19,
+                "inicio": "2026-05-20 16:05:00",
+                "fim": "2026-05-20 16:05:00",
                 "duracao_minutos": 5,
                 "estado_inicial": "Alerta - Vibração Anómala"
+            },
+            {
+                "evento_id": 20,
+                "inicio": "2026-05-20 16:50:00",
+                "fim": "2026-05-20 17:30:00",
+                "duracao_minutos": 25,
+                "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 21,
@@ -464,44 +499,37 @@
             },
             {
                 "evento_id": 22,
-                "inicio": "2026-05-20 19:40:00",
-                "fim": "2026-05-20 19:40:00",
+                "inicio": "2026-05-20 20:10:00",
+                "fim": "2026-05-20 20:10:00",
                 "duracao_minutos": 5,
-                "estado_inicial": "Operacional"
+                "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 23,
-                "inicio": "2026-05-20 20:00:00",
-                "fim": "2026-05-20 20:20:00",
-                "duracao_minutos": 15,
-                "estado_inicial": "Operacional"
+                "inicio": "2026-05-20 20:30:00",
+                "fim": "2026-05-20 20:30:00",
+                "duracao_minutos": 5,
+                "estado_inicial": "Alerta - Vibração Anómala"
             },
             {
                 "evento_id": 24,
-                "inicio": "2026-05-20 20:55:00",
-                "fim": "2026-05-20 20:55:00",
+                "inicio": "2026-05-20 21:00:00",
+                "fim": "2026-05-20 21:00:00",
                 "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
+                "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 25,
                 "inicio": "2026-05-20 21:20:00",
                 "fim": "2026-05-20 21:20:00",
                 "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
+                "estado_inicial": "Operacional"
             },
             {
                 "evento_id": 26,
-                "inicio": "2026-05-20 22:15:00",
-                "fim": "2026-05-20 22:15:00",
-                "duracao_minutos": 5,
-                "estado_inicial": "Alerta - Vibração Anómala"
-            },
-            {
-                "evento_id": 27,
-                "inicio": "2026-05-20 23:30:00",
-                "fim": "2026-05-20 23:40:00",
-                "duracao_minutos": 10,
+                "inicio": "2026-05-20 22:55:00",
+                "fim": "2026-05-20 23:30:00",
+                "duracao_minutos": 20,
                 "estado_inicial": "Operacional"
             }
         ]

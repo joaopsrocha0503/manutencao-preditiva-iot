@@ -5,7 +5,7 @@ import streamlit as st
 
 def main():
     st.set_page_config(
-        page_title="Dashboard Preditivo - FEUP",
+        page_title="Dashboard Preditivo",
         page_icon="https://www.fe.up.pt/favicon.ico",
         layout="wide",
         initial_sidebar_state="expanded"
@@ -182,7 +182,7 @@ def main():
     
     # --- Sidebar ---
     with st.sidebar:
-        st.markdown('<p style="font-size:1.2rem; font-weight:700; color:#ffffff !important; margin-bottom:20px;">FEUP — Manutenção Preditiva</p>', unsafe_allow_html=True)
+        st.markdown('<p style="font-size:1.2rem; font-weight:700; color:#ffffff !important; margin-bottom:20px;">Manutenção Preditiva</p>', unsafe_allow_html=True)
         
         selected_machine = st.selectbox(
             "Equipamento a Monitorizar",
@@ -230,7 +230,7 @@ def main():
         """, unsafe_allow_html=True)
 
     # --- Título ---
-    st.title("Dashboard de Monitorização Preditiva - FEUP")
+    st.title("Dashboard de Monitorização Preditiva")
     st.subheader("Análise Inteligente e Indicadores de Gestão da Manutenção (Indústria 4.0)")
     st.markdown("---")
 
